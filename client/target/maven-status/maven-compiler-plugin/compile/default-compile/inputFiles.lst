@@ -1,0 +1,13 @@
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\adapter\in\ClientDTO.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\adapter\in\ClientPresentation.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\adapter\in\ClientRestMapper.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\adapter\in\CreationClientDTO.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\adapter\out\ClientBDD\ClientJPAEntity.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\adapter\out\ClientBDD\ClientRepoAdapter.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\adapter\out\ClientBDD\ClientRepository.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\application\port\in\ClientUseCasePort.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\application\port\out\ClientRepositoryPort.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\application\service\ClientService.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\ClientApplication.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\domain\Client.java
+D:\PARCOURS_INGE\UV2\ARCHI_LOGICIELLE\PROJET\client\src\main\java\com\example\client\JerseyConfig.java
