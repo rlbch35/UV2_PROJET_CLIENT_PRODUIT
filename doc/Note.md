@@ -30,3 +30,4 @@ https://reflectoring.io/spring-hexagonal/
 
 https://jivimberg.io/blog/2020/02/01/hexagonal-architecture-on-spring-boot/
 
+https://docs.spring.io/spring-framework/reference/integration/rest-clients.html
