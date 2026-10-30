@@ -8,6 +8,8 @@ Microservice en couche produit
 | Supprimer un produit | DELETE | localhost:808X/api/produits/{idproduits} | vide | 204 | Vérifier qu'il existe avant suppression | 4 | OK |
 | Modifier un produit | PUT | localhost:808X/api/produits/{idproduits} | {"nom": "PC Portable", "description": "16Go RAM", "prix": 1200.0} | 200 OK | Vérifier qu'il existe avant modification | 5 | OK |
 
+Microservice hexa client
+
 | Action | Méthode | URL | RAW Data | Réponse attendu | Controle | ITEM GIT |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Créer un client | POST | localhost:808X/api/clients | {"nom": "Dupont", "prenom": "Jean", "mail": "jean@mail.com", "telephone": "0600000000"} | 201 created |  | 6 | ok |
